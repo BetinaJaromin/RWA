@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Custom - ignore sensitive folders
+RWA.Api/PrivateFile/
+RWA.Api/wwwroot/
